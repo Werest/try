@@ -1,4 +1,5 @@
 <?
+echo "M2"
 echo "Master 1";
 echo "Dev 1";
 echo "Dev 2";
